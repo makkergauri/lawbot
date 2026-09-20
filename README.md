@@ -8,7 +8,7 @@ The architecture supports both local and cloud-based large language models, maki
 
 ## Overview
 
-LawBot enables users to:
+LawBot enables the users to:
 
 - Upload legal documents (acts, case files, contracts, policies, etc.)
 - Perform semantic search over document content
@@ -192,3 +192,4 @@ The prompt design enforces:
 ```
 
 This ensures document-grounded, reliable outputs suitable for legal assistance workflows.
+
